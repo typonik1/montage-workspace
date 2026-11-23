@@ -1,0 +1,760 @@
+[
+  {
+    "id": 1,
+    "source": "2015 день народного единства делегация бго.jpg",
+    "file": "assets/photos/001.jpg",
+    "size": [
+      2118,
+      1607
+    ]
+  },
+  {
+    "id": 2,
+    "source": "2015.jpg",
+    "file": "assets/photos/002.jpg",
+    "size": [
+      2560,
+      1707
+    ]
+  },
+  {
+    "id": 3,
+    "source": "2016 1.jpg",
+    "file": "assets/photos/003.jpg",
+    "size": [
+      2560,
+      1707
+    ]
+  },
+  {
+    "id": 4,
+    "source": "2016 2.jpg",
+    "file": "assets/photos/004.jpg",
+    "size": [
+      1280,
+      853
+    ]
+  },
+  {
+    "id": 5,
+    "source": "2016 3.jpg",
+    "file": "assets/photos/005.jpg",
+    "size": [
+      2560,
+      1964
+    ]
+  },
+  {
+    "id": 6,
+    "source": "2016.jpg",
+    "file": "assets/photos/006.jpg",
+    "size": [
+      2560,
+      1707
+    ]
+  },
+  {
+    "id": 7,
+    "source": "2017 2.jpg",
+    "file": "assets/photos/007.jpg",
+    "size": [
+      2560,
+      1707
+    ]
+  },
+  {
+    "id": 8,
+    "source": "2017 3.jpg",
+    "file": "assets/photos/008.jpg",
+    "size": [
+      2560,
+      1707
+    ]
+  },
+  {
+    "id": 9,
+    "source": "2017 4.jpg",
+    "file": "assets/photos/009.jpg",
+    "size": [
+      2560,
+      1707
+    ]
+  },
+  {
+    "id": 10,
+    "source": "2017 5.jpg",
+    "file": "assets/photos/010.jpg",
+    "size": [
+      2560,
+      1803
+    ]
+  },
+  {
+    "id": 11,
+    "source": "2017 6.jpg",
+    "file": "assets/photos/011.jpg",
+    "size": [
+      960,
+      719
+    ]
+  },
+  {
+    "id": 12,
+    "source": "2017 7.jpg",
+    "file": "assets/photos/012.jpg",
+    "size": [
+      1280,
+      853
+    ]
+  },
+  {
+    "id": 13,
+    "source": "2017 8.jpg",
+    "file": "assets/photos/013.jpg",
+    "size": [
+      2560,
+      1707
+    ]
+  },
+  {
+    "id": 14,
+    "source": "2017.jpg",
+    "file": "assets/photos/014.jpg",
+    "size": [
+      2560,
+      1612
+    ]
+  },
+  {
+    "id": 15,
+    "source": "2018 .jpg",
+    "file": "assets/photos/015.jpg",
+    "size": [
+      2560,
+      1707
+    ]
+  },
+  {
+    "id": 16,
+    "source": "2018 2.jpg",
+    "file": "assets/photos/016.jpg",
+    "size": [
+      2560,
+      1920
+    ]
+  },
+  {
+    "id": 17,
+    "source": "2018 3.jpg",
+    "file": "assets/photos/017.jpg",
+    "size": [
+      1417,
+      940
+    ]
+  },
+  {
+    "id": 18,
+    "source": "2018 4.jpg",
+    "file": "assets/photos/018.jpg",
+    "size": [
+      2560,
+      1707
+    ]
+  },
+  {
+    "id": 19,
+    "source": "2018 5.jpg",
+    "file": "assets/photos/019.jpg",
+    "size": [
+      2560,
+      1707
+    ]
+  },
+  {
+    "id": 20,
+    "source": "2019 1.jpg",
+    "file": "assets/photos/020.jpg",
+    "size": [
+      1280,
+      850
+    ]
+  },
+  {
+    "id": 21,
+    "source": "2019 2.jpg",
+    "file": "assets/photos/021.jpg",
+    "size": [
+      2560,
+      1920
+    ]
+  },
+  {
+    "id": 22,
+    "source": "2019 3.jpg",
+    "file": "assets/photos/022.jpg",
+    "size": [
+      1024,
+      681
+    ]
+  },
+  {
+    "id": 23,
+    "source": "2019 4.jpg",
+    "file": "assets/photos/023.jpg",
+    "size": [
+      2560,
+      1920
+    ]
+  },
+  {
+    "id": 24,
+    "source": "2019 5.jpg",
+    "file": "assets/photos/024.jpg",
+    "size": [
+      1280,
+      960
+    ]
+  },
+  {
+    "id": 25,
+    "source": "2019 6.jpg",
+    "file": "assets/photos/025.jpg",
+    "size": [
+      1280,
+      960
+    ]
+  },
+  {
+    "id": 26,
+    "source": "2019 7.jpg",
+    "file": "assets/photos/026.jpg",
+    "size": [
+      1280,
+      960
+    ]
+  },
+  {
+    "id": 27,
+    "source": "2019 8.jpg",
+    "file": "assets/photos/027.jpg",
+    "size": [
+      1152,
+      864
+    ]
+  },
+  {
+    "id": 28,
+    "source": "2019.jpg",
+    "file": "assets/photos/028.jpg",
+    "size": [
+      2560,
+      1920
+    ]
+  },
+  {
+    "id": 29,
+    "source": "2020 1.jpg",
+    "file": "assets/photos/029.jpg",
+    "size": [
+      1280,
+      720
+    ]
+  },
+  {
+    "id": 30,
+    "source": "2020 2.jpg",
+    "file": "assets/photos/030.jpg",
+    "size": [
+      1280,
+      960
+    ]
+  },
+  {
+    "id": 31,
+    "source": "2020 3.jpg",
+    "file": "assets/photos/031.jpg",
+    "size": [
+      1024,
+      721
+    ]
+  },
+  {
+    "id": 32,
+    "source": "2020 4.jpg",
+    "file": "assets/photos/032.jpg",
+    "size": [
+      1040,
+      780
+    ]
+  },
+  {
+    "id": 33,
+    "source": "2020 5.jpg",
+    "file": "assets/photos/033.jpg",
+    "size": [
+      1280,
+      960
+    ]
+  },
+  {
+    "id": 34,
+    "source": "2020 6.jpg",
+    "file": "assets/photos/034.jpg",
+    "size": [
+      1280,
+      720
+    ]
+  },
+  {
+    "id": 35,
+    "source": "2020 7.jpg",
+    "file": "assets/photos/035.jpg",
+    "size": [
+      1024,
+      768
+    ]
+  },
+  {
+    "id": 36,
+    "source": "2020 8.jpg",
+    "file": "assets/photos/036.jpg",
+    "size": [
+      1280,
+      720
+    ]
+  },
+  {
+    "id": 37,
+    "source": "2020 9.jpg",
+    "file": "assets/photos/037.jpg",
+    "size": [
+      1125,
+      755
+    ]
+  },
+  {
+    "id": 38,
+    "source": "2020.jpg",
+    "file": "assets/photos/038.jpg",
+    "size": [
+      1152,
+      864
+    ]
+  },
+  {
+    "id": 40,
+    "source": "конференция 2016.jpg",
+    "file": "assets/photos/040.jpg",
+    "size": [
+      1280,
+      830
+    ]
+  },
+  {
+    "id": 41,
+    "source": "мама папа я 2013 обухово 2.jpg",
+    "file": "assets/photos/041.jpg",
+    "size": [
+      2560,
+      1707
+    ]
+  },
+  {
+    "id": 42,
+    "source": "мама папа я 2013 обухово 3.jpg",
+    "file": "assets/photos/042.jpg",
+    "size": [
+      2560,
+      1707
+    ]
+  },
+  {
+    "id": 43,
+    "source": "мама папа я 2013 обухово.jpg",
+    "file": "assets/photos/043.jpg",
+    "size": [
+      2560,
+      1707
+    ]
+  },
+  {
+    "id": 44,
+    "source": "8 марта 2015.jpg",
+    "file": "assets/photos/044.jpg",
+    "size": [
+      2560,
+      1488
+    ]
+  },
+  {
+    "id": 45,
+    "source": "2013 1.jpg",
+    "file": "assets/photos/045.jpg",
+    "size": [
+      2560,
+      1707
+    ]
+  },
+  {
+    "id": 46,
+    "source": "2013 2.jpg",
+    "file": "assets/photos/046.jpg",
+    "size": [
+      880,
+      485
+    ]
+  },
+  {
+    "id": 47,
+    "source": "2013.jpg",
+    "file": "assets/photos/047.jpg",
+    "size": [
+      2560,
+      1707
+    ]
+  },
+  {
+    "id": 48,
+    "source": "2014.jpg",
+    "file": "assets/photos/048.jpg",
+    "size": [
+      2560,
+      1872
+    ]
+  },
+  {
+    "id": 49,
+    "source": "2015 1.jpg",
+    "file": "assets/photos/049.jpg",
+    "size": [
+      2560,
+      1707
+    ]
+  },
+  {
+    "id": 50,
+    "source": "2015 2.jpg",
+    "file": "assets/photos/050.jpg",
+    "size": [
+      1000,
+      750
+    ]
+  },
+  {
+    "id": 51,
+    "source": "2015 3.jpg",
+    "file": "assets/photos/051.jpg",
+    "size": [
+      2560,
+      1707
+    ]
+  },
+  {
+    "id": 52,
+    "source": "2015 4.jpg",
+    "file": "assets/photos/052.jpg",
+    "size": [
+      960,
+      685
+    ]
+  },
+  {
+    "id": 53,
+    "source": "06_6.jpg",
+    "file": "assets/photos/053.jpg",
+    "size": [
+      720,
+      576
+    ]
+  },
+  {
+    "id": 54,
+    "source": "04_4.jpg",
+    "file": "assets/photos/054.jpg",
+    "size": [
+      720,
+      576
+    ]
+  },
+  {
+    "id": 55,
+    "source": "Screenshot_46.jpg",
+    "file": "assets/photos/055.jpg",
+    "size": [
+      1047,
+      696
+    ]
+  },
+  {
+    "id": 56,
+    "source": "Screenshot_45.jpg",
+    "file": "assets/photos/056.jpg",
+    "size": [
+      937,
+      693
+    ]
+  },
+  {
+    "id": 57,
+    "source": "Screenshot_44.jpg",
+    "file": "assets/photos/057.jpg",
+    "size": [
+      1196,
+      683
+    ]
+  },
+  {
+    "id": 58,
+    "source": "Screenshot_43.jpg",
+    "file": "assets/photos/058.jpg",
+    "size": [
+      1196,
+      683
+    ]
+  },
+  {
+    "id": 59,
+    "source": "Screenshot_42.jpg",
+    "file": "assets/photos/059.jpg",
+    "size": [
+      1196,
+      683
+    ]
+  },
+  {
+    "id": 60,
+    "source": "Screenshot_41.jpg",
+    "file": "assets/photos/060.jpg",
+    "size": [
+      1196,
+      683
+    ]
+  },
+  {
+    "id": 61,
+    "source": "Первого декабря 2001 года в Кремле прошёл учредительный съезд новой партии..jpg",
+    "file": "assets/photos/061.jpg",
+    "size": [
+      816,
+      544
+    ]
+  },
+  {
+    "id": 62,
+    "source": "Us5dsR5F-WZ3DpMOI-nuxWmQXAZ88Om4glc6WpDNRH8iNUB6iNPFQAJwsd8BlPJuXD_6mTpo.jpg",
+    "file": "assets/photos/062.jpg",
+    "size": [
+      1108,
+      849
+    ]
+  },
+  {
+    "id": 63,
+    "source": "X-w4Z3vtSFA3xes5e-J2XvmtWhEfDhWsd1NNHcs2bD9K_EM4w9xuyONQbp__LilNUIf_kaCaxYToRXqHadXa_yQ-.jpg",
+    "file": "assets/photos/063.jpg",
+    "size": [
+      2560,
+      1706
+    ],
+    "archive": "2026.zip",
+    "year": 2026
+  },
+  {
+    "id": 64,
+    "source": "pksyvDmM5NmmMnQtDZOIHG28NORGYY5LHmEEqdYd9U1SDFLr9XpCOdi3t59LiN4c5dMR599Sm12OH2M6HcT_w4bL.jpg",
+    "file": "assets/photos/064.jpg",
+    "size": [
+      2560,
+      1920
+    ],
+    "archive": "2026.zip",
+    "year": 2026
+  },
+  {
+    "id": 65,
+    "source": "mx6xIdC6go1_T9Rn99X7Z4_2cup67xuoWuoX8_B3bA4cr8PMLOMcgHN7HaCWZVcxyAtIsAKqt_4pzA5brTZcqBFu.jpg",
+    "file": "assets/photos/065.jpg",
+    "size": [
+      2046,
+      1535
+    ],
+    "archive": "2026.zip",
+    "year": 2026
+  },
+  {
+    "id": 66,
+    "source": "QZrfNzUwQrk8S8IfGCnSYYjd26XGVsEX_HctZokHGNJHXNP-JnZkDOVcQ0V6NUi4rd8BgsxQl-O0YXA3akD3VaV6.jpg",
+    "file": "assets/photos/066.jpg",
+    "size": [
+      2560,
+      1706
+    ],
+    "archive": "2026.zip",
+    "year": 2026
+  },
+  {
+    "id": 67,
+    "source": "FR2Qc3lBGXMjBJeOKL_X25e-WYOfcjxQ80VkM5dt84NXqTnDWOTpkdCzhLa0Aq0ZiT5bycXQ1VPY3ILpzdwd3Nzx.jpg",
+    "file": "assets/photos/067.jpg",
+    "size": [
+      1280,
+      835
+    ],
+    "archive": "2026.zip",
+    "year": 2026
+  },
+  {
+    "id": 68,
+    "source": "95nPYn0j9hP1zaKm4Vf1CuSexJYABtwYb06DvMOdkDeekr-dIu1846W6GtlnXid3HRMJ-Fyb7jH_eqh005IW0Iwg.jpg",
+    "file": "assets/photos/068.jpg",
+    "size": [
+      1920,
+      1440
+    ],
+    "archive": "2026.zip",
+    "year": 2026
+  },
+  {
+    "id": 69,
+    "source": "gW-IuNKZqiP1uvfnwTILU5oyGzlVME4zcpA__7q4R9ebeFv3c1X6uDEFV5KOZBqM2BkZF8YTazLqQfm4O6WEBq4s.jpg",
+    "file": "assets/photos/069.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "archive": "2026.zip",
+    "year": 2026
+  },
+  {
+    "id": 70,
+    "source": "Screenshot_27.jpg",
+    "file": "assets/photos/070.jpg",
+    "size": [
+      1079,
+      719
+    ],
+    "archive": "фото 2026.zip",
+    "year": 2026
+  },
+  {
+    "id": 71,
+    "source": "Screenshot_31.jpg",
+    "file": "assets/photos/071.jpg",
+    "size": [
+      1079,
+      719
+    ],
+    "archive": "фото 2026.zip",
+    "year": 2026
+  },
+  {
+    "id": 72,
+    "source": "Screenshot_30.jpg",
+    "file": "assets/photos/072.jpg",
+    "size": [
+      1079,
+      719
+    ],
+    "archive": "фото 2026.zip",
+    "year": 2026
+  },
+  {
+    "id": 73,
+    "source": "Screenshot_29.jpg",
+    "file": "assets/photos/073.jpg",
+    "size": [
+      1079,
+      719
+    ],
+    "archive": "фото 2026.zip",
+    "year": 2026
+  },
+  {
+    "id": 74,
+    "source": "B0I2Ge305zlswI2OZr5VtxGLDMWMj2jf46kI5dMC8r-EfkrKoTqPiMDZuZEyCALxsYWl5ETeFvfsUeHp8cPwot9G.jpg",
+    "file": "assets/photos/074.jpg",
+    "size": [
+      1280,
+      960
+    ],
+    "archive": "фото 2026.zip",
+    "year": 2026
+  },
+  {
+    "id": 75,
+    "source": "ke8agUBuNoeVkSjMSDOtvaltSD0XS2GHnFuJbvh9P5-T5FzZ_3LS5IFz2k6S5wAgnwtraUBeio1sOfwpQ-6gNU9f.jpg",
+    "file": "assets/photos/075.jpg",
+    "size": [
+      1920,
+      1440
+    ],
+    "archive": "фото 2026.zip",
+    "year": 2026
+  },
+  {
+    "id": 76,
+    "source": "сначала эту статуэтку.jpg",
+    "file": "assets/photos/076.jpg",
+    "size": [
+      1079,
+      719
+    ],
+    "archive": "фоточки 2026.zip",
+    "year": 2026
+  },
+  {
+    "id": 77,
+    "source": "xB9DIWB_Tps_XjzGCRgEMI9FXZhYfJDgfli4YIR7-h84NbXArI6rgR0vhtQyFO7NzDibB7Rvu_YCMZfpu7fTH-MV.jpg",
+    "file": "assets/photos/077.jpg",
+    "size": [
+      1920,
+      1440
+    ],
+    "archive": "фоточки 2026.zip",
+    "year": 2026
+  },
+  {
+    "id": 78,
+    "source": "C0dyxowSHYxD0sgilQcn8oL0N0RoFLmvqjoT5LpGb0V4l1_EHQgJryRPdYsri664kdlvjjvWGHdo7iGpcNmjGqRW.jpg",
+    "file": "assets/photos/078.jpg",
+    "size": [
+      1920,
+      1440
+    ],
+    "archive": "фоточки 2026.zip",
+    "year": 2026
+  },
+  {
+    "id": 79,
+    "source": "zbgPhR8UWaS5Odjo3ksag5CGK-P8VOJL90CRI8tijrwk0UYX6ekdhxet1KK264cm9DlJ5AVS1Za-P-a7SNvUG-iE.jpg",
+    "file": "assets/photos/079.jpg",
+    "size": [
+      1280,
+      960
+    ],
+    "archive": "фоточки 2026.zip",
+    "year": 2026
+  },
+  {
+    "id": 80,
+    "source": "q7enPK4lUiPfDDKutlsNStLqysvs91jGPFmtjPvlGryPRCO9tBib05ygRxP6GVMixmbc2btysHidyL8iupepYMGx.jpg",
+    "file": "assets/photos/080.jpg",
+    "size": [
+      1280,
+      853
+    ],
+    "archive": "фоточки 2026.zip",
+    "year": 2026
+  },
+  {
+    "id": 81,
+    "source": "zqJKaGxlItsPBmFi0pS43_vn8tTUKhhvl0eo6b-tjhnb0mbhoEYiS0o9UB5JvCF0D54QEPTiwGTwb4EQ2rV2Nf7x.jpg",
+    "file": "assets/photos/081.jpg",
+    "size": [
+      1920,
+      1440
+    ],
+    "archive": "фоточки 2026.zip",
+    "year": 2026
+  }
+]

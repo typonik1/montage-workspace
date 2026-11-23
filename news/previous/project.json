@@ -1,0 +1,44 @@
+{
+  "output": "exports/Поджоги_и_реальные_сроки_37с.mp4",
+  "frame": {
+    "width": 1280,
+    "height": 720,
+    "fps": 25
+  },
+  "clips": [
+    {
+      "src": "../footage/360_RUTUBE.mp4",
+      "in": 359.56,
+      "out": 372.68
+    },
+    {
+      "src": "../footage/360_RUTUBE.mp4",
+      "in": 291.16,
+      "out": 296.96
+    },
+    {
+      "src": "../footage/360_RUTUBE.mp4",
+      "in": 33.96,
+      "out": 39.0
+    },
+    {
+      "src": "work/cards.mp4"
+    }
+  ],
+  "transition": {
+    "type": "none"
+  },
+  "captions": {
+    "ass": "titles.ass"
+  },
+  "overlays": [
+    {
+      "image": "chapter-thumbnail.jpg",
+      "position": "700,210",
+      "margin": 0,
+      "scale": 500,
+      "start": 28.68,
+      "end": 36.96
+    }
+  ]
+}

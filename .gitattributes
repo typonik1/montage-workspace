@@ -1,0 +1,10 @@
+* -text
+/setup.sh text eol=lf
+/portable/env.sh text eol=lf
+/portable/setup-openmotion.sh text eol=lf
+/news/render.sh text eol=lf
+MONTAGE/Фоны[[:space:]]для[[:space:]]монтажа/Фоны/Бумага/Бумага[[:space:]]2.mp4 filter=lfs diff=lfs merge=lfs -text
+MONTAGE/Фоны[[:space:]]для[[:space:]]монтажа/Фоны/Для[[:space:]]смешивания/1A[[:space:]]Мой[[:space:]]фон.mp4 filter=lfs diff=lfs merge=lfs -text
+build25/models/depth_anything_v2_small.onnx filter=lfs diff=lfs merge=lfs -text
+news/footage/360_RUTUBE.mp4 filter=lfs diff=lfs merge=lfs -text
+Государств_Как_обезоп_138347372_456246039_1080p_.mp4 filter=lfs diff=lfs merge=lfs -text

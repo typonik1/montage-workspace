@@ -1,0 +1,32 @@
+diff --git a/.mcp.json b/.mcp.json
+index a53ecaa..e4bd3db 100644
+--- a/.mcp.json
++++ b/.mcp.json
+@@ -2,14 +2,13 @@
+   "mcpServers": {
+     "openmotion": {
+       "type": "stdio",
+-      "command": "node",
++      "command": "/home/codespace/.local/share/openmotion-runtime/node_modules/node/bin/node",
+       "args": [
+         "--experimental-strip-types",
+         "mcp.ts"
+       ],
+       "cwd": ".",
+       "env_vars": [
+-        "MOTION_DATA_DIR",
+         "PORT",
+         "FFMPEG_PATH",
+         "FFPROBE_PATH",
+@@ -20,7 +19,10 @@
+         "MOTION_TEMPLATE_SOURCE",
+         "MOTION_TEMPLATE_RESOURCE_ID",
+         "MOTION_TEMPLATE_LOCALE"
+-      ]
++      ],
++      "env": {
++        "MOTION_DATA_DIR": "/home/codespace/.local/share/open-motion/.motion-data"
++      }
+     }
+   }
+ }

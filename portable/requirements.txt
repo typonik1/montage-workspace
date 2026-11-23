@@ -1,0 +1,16 @@
+# Версии основных монтажных библиотек, обнаруженные в исходной среде.
+av==19.0.2
+brotli==1.2.1
+CairoSVG==2.9.1
+ctranslate2==4.9.0
+faster-whisper==1.2.1
+fonttools==4.68.0
+numpy==2.5.4
+onnxruntime==1.31.1
+opencv-python-headless==5.1.0.95
+Pillow==13.0.0
+PyYAML==6.0.3
+requests==2.34.2
+tokenizers==0.23.3
+yt-dlp==2026.10.26
+yt-dlp-ejs==0.8.0

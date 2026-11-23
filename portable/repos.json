@@ -1,0 +1,5 @@
+{
+  "agent-desktop": {"origin": "https://github.com/vercel-labs/agent-desktop.git", "commit": "e8934a5e95e1d212c74ead95cd3e4701c04eca31", "working_tree": "clean"},
+  "huashu-art-motion": {"origin": "https://github.com/alchaincyf/huashu-art-motion.git", "commit": "a97c45018d46e950d56d61981138e08f4e092909", "working_tree": "clean"},
+  "openmotion": {"origin": "https://github.com/nexu-io/openmotion.git", "commit": "c12b13b142262a521ea2c90b99c14dea9d1a3eaf", "working_tree": "local .mcp.json change; see portable/config"}
+}

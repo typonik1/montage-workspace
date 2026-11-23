@@ -1,0 +1,40 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Subtitle,Unbounded SemiBold,36,&H00FFFFFF,&H00FFFFFF,&H000A0A0A,&H000A0A0A,0,0,0,0,100,100,0,0,1,3,0,2,60,60,42,1
+Style: Context,Unbounded SemiBold,28,&H00FFFFFF,&H00FFFFFF,&H000A0A0A,&H000A0A0A,0,0,0,0,100,100,0,0,1,2,0,7,60,55,26,1
+Style: Eyebrow,Unbounded SemiBold,27,&H007FD4FF,&H007FD4FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,90,72,94,1
+Style: Headline,Unbounded SemiBold,46,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,90,72,217,1
+Style: Note,Unbounded SemiBold,23,&H00D0C6BD,&H00D0C6BD,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,90,72,86,1
+Style: ImageCredit,Unbounded SemiBold,19,&H00D0C6BD,&H00D0C6BD,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,700,64,508,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:13.12,Context,,0,0,0,,Дело братьев Мельниковых\NПо версии следствия
+Dialogue: 0,0:00:00.04,0:00:02.94,Subtitle,,0,0,0,,Старший Мельников узнал,\Nчто Матвей собирается
+Dialogue: 0,0:00:02.94,0:00:05.08,Subtitle,,0,0,0,,идти фотографировать\Nвоенную часть.
+Dialogue: 0,0:00:05.52,0:00:07.43,Subtitle,,0,0,0,,Вместо того чтобы\Nотговорить брата,
+Dialogue: 0,0:00:07.43,0:00:10.14,Subtitle,,0,0,0,,пошёл вместе с ним\Nи стоял на шухере,
+Dialogue: 0,0:00:10.14,0:00:13.12,Subtitle,,0,0,0,,пока Матвей делал снимки\Nэтой военной техники.
+Dialogue: 0,0:00:13.12,0:00:18.92,Context,,0,0,0,,Матвея Мельникова и Юрия Михеева\Nзадержали до поджога военной техники
+Dialogue: 0,0:00:13.18,0:00:16.14,Subtitle,,0,0,0,,Обоих задержали прямо\Nза забором военной базы
+Dialogue: 0,0:00:16.14,0:00:18.92,Subtitle,,0,0,0,,сотрудники ФСБ по Москве\Nи Московской области.
+Dialogue: 0,0:00:18.92,0:00:23.96,Context,,0,0,0,,Первый приговор · февраль 2025
+Dialogue: 0,0:00:18.92,0:00:20.50,Subtitle,,0,0,0,,Братья Мельниковы получили
+Dialogue: 0,0:00:20.50,0:00:22.42,Subtitle,,0,0,0,,по 19 и 20 лет тюрьмы,
+Dialogue: 0,0:00:22.42,0:00:23.96,Subtitle,,0,0,0,,а Юрий Михеев — 7.
+Dialogue: 0,0:00:23.96,0:00:28.68,Eyebrow,,0,0,0,,ПОСЛЕ АПЕЛЛЯЦИИ
+Dialogue: 0,0:00:23.96,0:00:28.68,Headline,,0,0,0,,Матвей — 19 лет 10 месяцев\NТимофей — 18 лет 10 месяцев
+Dialogue: 0,0:00:23.96,0:00:28.68,Note,,0,0,0,,29 октября 2025 года · «Мемориал»
+Dialogue: 0,0:00:28.68,0:00:32.60,Eyebrow,,0,0,0,,ВОЛОГОДСКАЯ ОБЛАСТЬ · ДРУГОЕ ДЕЛО
+Dialogue: 0,0:00:28.68,0:00:32.60,Headline,,0,0,0,,{\fs37}Двое школьников\N15 и 16 лет подожгли\Nкабину электровоза.
+Dialogue: 0,0:00:32.60,0:00:36.96,Eyebrow,,0,0,0,,ПРИГОВОР ПО ДЕЛУ О ТЕРАКТЕ
+Dialogue: 0,0:00:32.60,0:00:36.96,Headline,,0,0,0,,{\fs48}6 и 9 лет колонии\N{\fs29}9 лет — за два эпизода\Nподжога.
+Dialogue: 0,0:00:28.68,0:00:36.96,Note,,0,0,0,,12 мая 2025 года · репортаж «Медиазоны» из суда
+Dialogue: 0,0:00:28.68,0:00:36.96,ImageCredit,,0,0,0,,Превью главы «Как наказывают\Nподростков» · YouTube, 11:20

@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "openmotion": {
+      "type": "stdio",
+      "command": "/absolute/path/to/montage-workspace/portable/.runtime/node26/node_modules/.bin/node",
+      "args": ["--experimental-strip-types", "mcp.ts"],
+      "cwd": "/absolute/path/to/montage-workspace/portable/.runtime/openmotion",
+      "env": { "MOTION_DATA_DIR": "/absolute/path/to/montage-workspace/portable/.runtime/openmotion-data" }
+    }
+  }
+}

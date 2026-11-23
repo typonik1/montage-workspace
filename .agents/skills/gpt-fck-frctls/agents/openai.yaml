@@ -1,0 +1,14 @@
+interface:
+  display_name: GPT-FCK-FRCTLS
+  short_description: Контроль артефактов с сохранением замысла изображения
+  default_prompt: 'Примени $gpt-fck-frctls к созданию или редактированию изображения:
+    сохрани художественный замысел и предотврати непрошеные артефакты.'
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

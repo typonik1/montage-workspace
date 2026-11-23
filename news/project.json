@@ -1,0 +1,44 @@
+{
+  "output": "exports/Поджоги_и_реальные_сроки_RUTUBE_и_YouTube.mp4",
+  "frame": {
+    "width": 1280,
+    "height": 720,
+    "fps": 25
+  },
+  "clips": [
+    {
+      "src": "footage/360_RUTUBE.mp4",
+      "in": 359.56,
+      "out": 364.64
+    },
+    {
+      "src": "footage/360_RUTUBE.mp4",
+      "in": 291.16,
+      "out": 296.96
+    },
+    {
+      "src": "footage/360_RUTUBE.mp4",
+      "in": 33.96,
+      "out": 39.0
+    },
+    {
+      "src": "work/appeal-card.mp4"
+    },
+    {
+      "src": "../Медиазона_YouTube_11-20_13-00.mp4",
+      "in": 0.0,
+      "out": 4.88
+    },
+    {
+      "src": "../Медиазона_YouTube_11-20_13-00.mp4",
+      "in": 42.36,
+      "out": 56.8
+    }
+  ],
+  "transition": {
+    "type": "none"
+  },
+  "captions": {
+    "ass": "titles.ass"
+  }
+}

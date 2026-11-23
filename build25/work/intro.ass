@@ -1,0 +1,28 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Unbounded SemiBold,58,&H004DC2FF,&H00FFFFFF,&H281A1408,&H281A1408,0,0,0,0,100,100,0,0,3,12,0,2,80,80,58,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.40,0:00:01.14,Sub,,0,0,0,,\h{\kf11}Я {\kf16}же {\kf47}когда-то\h
+Dialogue: 0,0:00:01.14,0:00:02.35,Sub,,0,0,0,,\h{\kf11}и {\kf50}создавал {\kf22}эту {\kf38}партию\h
+Dialogue: 0,0:00:02.50,0:00:03.50,Sub,,0,0,0,,\h{\kf18}так {\kf23}что, {\kf59}естественно,\h
+Dialogue: 0,0:00:03.50,0:00:04.68,Sub,,0,0,0,,\h{\kf27}было {\kf16}бы {\kf16}её {\kf59}поддержать\h
+Dialogue: 0,0:00:04.82,0:00:06.07,Sub,,0,0,0,,\h{\kf13}И {\kf13}я {\kf39}много {\kf60}внимания\h
+Dialogue: 0,0:00:06.07,0:00:06.90,Sub,,0,0,0,,\h{\kf83}уделил\h
+Dialogue: 0,0:00:07.12,0:00:08.76,Sub,,0,0,0,,\h{\kf96}программе {\kf68}партии\h
+Dialogue: 0,0:00:08.76,0:00:09.82,Sub,,0,0,0,,\h{\kf53}«Единая {\kf53}Россия»\h
+Dialogue: 0,0:00:10.45,0:00:12.35,Sub,,0,0,0,,\h{\kf29}Это {\kf44}очень {\kf51}важный {\kf66}документ\h
+Dialogue: 0,0:00:12.45,0:00:14.00,Sub,,0,0,0,,\h{\kf69}важный, {\kf86}серьёзный\h
+Dialogue: 0,0:00:14.00,0:00:16.45,Sub,,0,0,0,,\h{\kf47}Это {\kf117}ориентиры {\kf81}партии\h
+Dialogue: 0,0:00:16.45,0:00:17.45,Sub,,0,0,0,,\h{\kf17}на {\kf56}ближайшие {\kf27}годы\h
+Dialogue: 0,0:00:17.45,0:00:20.30,Sub,,0,0,0,,\h{\kf32}в {\kf142}развитии {\kf111}страны\h
+Dialogue: 0,0:00:20.30,0:00:21.60,Sub,,0,0,0,,\h{\kf16}в {\kf65}решении {\kf49}задач\h
+Dialogue: 0,0:00:21.60,0:00:23.10,Sub,,0,0,0,,\h{\kf84}развития {\kf66}страны\h

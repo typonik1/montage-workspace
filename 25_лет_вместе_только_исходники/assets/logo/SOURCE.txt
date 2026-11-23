@@ -1,0 +1,3 @@
+Official site SVG: https://cdn.er.ru/img/logo-large-white.svg
+Linked by https://cdn.er.ru/ as ../../img/logo-large-white.svg
+Downloaded 2026-11-20. Original file preserved.

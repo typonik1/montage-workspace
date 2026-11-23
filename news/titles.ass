@@ -1,0 +1,39 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Subtitle,Unbounded SemiBold,36,&H00FFFFFF,&H00FFFFFF,&H000A0A0A,&H000A0A0A,0,0,0,0,100,100,0,0,1,3,0,2,60,60,42,1
+Style: Context,Unbounded SemiBold,28,&H00FFFFFF,&H00FFFFFF,&H000A0A0A,&H000A0A0A,0,0,0,0,100,100,0,0,1,2,0,7,60,55,26,1
+Style: Eyebrow,Unbounded SemiBold,27,&H007FD4FF,&H007FD4FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,90,72,94,1
+Style: Headline,Unbounded SemiBold,46,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,90,72,217,1
+Style: Note,Unbounded SemiBold,23,&H00D0C6BD,&H00D0C6BD,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,90,72,86,1
+Style: Topic,Unbounded SemiBold,24,&H00FFFFFF,&H00FFFFFF,&H00130D1C,&H00130D1C,0,0,0,0,100,100,0,0,1,2,0,9,72,52,34,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.08,Context,,0,0,0,,Братья Мельниковы снимали военную технику\NПо версии следствия
+Dialogue: 0,0:00:00.04,0:00:02.94,Subtitle,,0,0,0,,Старший Мельников узнал,\Nчто Матвей собирается
+Dialogue: 0,0:00:02.94,0:00:05.08,Subtitle,,0,0,0,,идти фотографировать\Nвоенную часть.
+Dialogue: 0,0:00:05.08,0:00:10.88,Context,,0,0,0,,Матвея Мельникова и Юрия Михеева\Nзадержали до поджога военной техники
+Dialogue: 0,0:00:05.14,0:00:08.10,Subtitle,,0,0,0,,Обоих задержали прямо\Nза забором военной базы
+Dialogue: 0,0:00:08.10,0:00:10.88,Subtitle,,0,0,0,,сотрудники ФСБ по Москве\Nи Московской области.
+Dialogue: 0,0:00:10.88,0:00:15.92,Context,,0,0,0,,Первый приговор · февраль 2025
+Dialogue: 0,0:00:10.88,0:00:12.46,Subtitle,,0,0,0,,Братья Мельниковы получили
+Dialogue: 0,0:00:12.46,0:00:14.38,Subtitle,,0,0,0,,по 19 и 20 лет тюрьмы,
+Dialogue: 0,0:00:14.38,0:00:15.92,Subtitle,,0,0,0,,а Юрий Михеев — 7.
+Dialogue: 0,0:00:15.92,0:00:20.04,Eyebrow,,0,0,0,,ПОСЛЕ АПЕЛЛЯЦИИ
+Dialogue: 0,0:00:15.92,0:00:20.04,Headline,,0,0,0,,Матвей — 19 лет 10 месяцев\NТимофей — 18 лет 10 месяцев
+Dialogue: 0,0:00:15.92,0:00:20.04,Note,,0,0,0,,29 октября 2025 года · «Мемориал»
+Dialogue: 0,0:00:20.04,0:00:39.36,Topic,,0,0,0,,Другие дела подростков
+Dialogue: 0,0:00:20.04,0:00:22.04,Subtitle,,0,0,0,,Задержанных подростков
+Dialogue: 0,0:00:22.04,0:00:24.92,Subtitle,,0,0,0,,обвиняют по статьям\Nо теракте или диверсии.
+Dialogue: 0,0:00:25.04,0:00:27.46,Subtitle,,0,0,0,,Обвиняемые в поджогах\Nподростки получают
+Dialogue: 0,0:00:27.46,0:00:31.28,Subtitle,,0,0,0,,реальные сроки — от трёх лет\Nвоспитательной колонии.
+Dialogue: 0,0:00:31.76,0:00:33.52,Subtitle,,0,0,0,,Самый большой известный срок,
+Dialogue: 0,0:00:33.52,0:00:36.42,Subtitle,,0,0,0,,назначенный подросткам\Nза атаку на железную дорогу
+Dialogue: 0,0:00:36.42,0:00:39.36,Subtitle,,0,0,0,,и системы связи —\N{\c&H007FD4FF&}9 лет колонии.{\c}
