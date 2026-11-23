@@ -27,3 +27,5 @@ node_modules/
 !.env.example
 *.pem
 *.pfx
+build25/outro/.hyperframes/
+build25/outro/history-id

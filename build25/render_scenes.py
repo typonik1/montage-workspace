@@ -64,7 +64,7 @@ def motion(s, i, q):
     if sid == "founding-close":
         return 1.34 + 0.14 * q, 6 - 12 * q, -4 + 8 * q, 0.04, -0.13
     if sid == "founding-return":
-        return 1.16 - 0.10 * q, -5 + 10 * q, 0, 0, -0.02
+        return 1.05 + 0.10 * q, -8 + 16 * q, 10 - 20 * q, 0, 0.03
     pat = i % 5
     if pat == 0:
         return 1.05 + 0.09 * q, -6 + 12 * q, 4 - 8 * q, 0, 0

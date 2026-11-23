@@ -30,7 +30,7 @@
       "start": 42.0,
       "hold": 5.1,
       "duration": 6.02,
-      "photo": 61,
+      "photo": 82,
       "year": "",
       "trans": "continuous",
       "chapter": false,
@@ -117,7 +117,7 @@
       "id": "photo-58",
       "start": 83.55,
       "hold": 4.2,
-      "duration": 5.12,
+      "duration": 4.72,
       "photo": 58,
       "year": "",
       "trans": "dissolve",
@@ -126,9 +126,9 @@
     },
     {
       "id": "photo-59",
-      "start": 87.75,
+      "start": 87.35,
       "hold": 4.2,
-      "duration": 5.12,
+      "duration": 4.72,
       "photo": 59,
       "year": "",
       "trans": "dissolve",
@@ -137,7 +137,7 @@
     },
     {
       "id": "photo-45",
-      "start": 91.95,
+      "start": 91.15,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 45,
@@ -148,7 +148,7 @@
     },
     {
       "id": "photo-46",
-      "start": 95.75,
+      "start": 94.95,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 46,
@@ -159,7 +159,7 @@
     },
     {
       "id": "photo-47",
-      "start": 99.55,
+      "start": 98.75,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 47,
@@ -169,8 +169,41 @@
       "closing": false
     },
     {
-      "id": "photo-41",
+      "id": "new2013-march",
+      "photo": 83,
+      "duration": 4.72,
       "start": 103.35,
+      "hold": 3.8,
+      "year": "",
+      "trans": "dissolve",
+      "chapter": false,
+      "closing": false
+    },
+    {
+      "id": "new2013-rally",
+      "photo": 84,
+      "duration": 4.72,
+      "start": 107.15,
+      "hold": 3.8,
+      "year": "",
+      "trans": "dissolve",
+      "chapter": false,
+      "closing": false
+    },
+    {
+      "id": "new2013-divers",
+      "photo": 85,
+      "duration": 4.72,
+      "start": 110.95,
+      "hold": 3.8,
+      "year": "",
+      "trans": "dissolve",
+      "chapter": false,
+      "closing": false
+    },
+    {
+      "id": "photo-41",
+      "start": 114.75,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 41,
@@ -181,7 +214,7 @@
     },
     {
       "id": "photo-42",
-      "start": 107.15,
+      "start": 118.55,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 42,
@@ -192,7 +225,7 @@
     },
     {
       "id": "photo-43",
-      "start": 110.95,
+      "start": 122.35,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 43,
@@ -203,7 +236,7 @@
     },
     {
       "id": "photo-48",
-      "start": 114.75,
+      "start": 126.15,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 48,
@@ -214,7 +247,7 @@
     },
     {
       "id": "photo-44",
-      "start": 118.55,
+      "start": 129.95,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 44,
@@ -225,7 +258,7 @@
     },
     {
       "id": "photo-1",
-      "start": 122.35,
+      "start": 133.75,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 1,
@@ -236,7 +269,7 @@
     },
     {
       "id": "photo-2",
-      "start": 126.15,
+      "start": 137.55,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 2,
@@ -247,7 +280,7 @@
     },
     {
       "id": "photo-50",
-      "start": 129.95,
+      "start": 141.35,
       "hold": 5,
       "duration": 5.92,
       "photo": 50,
@@ -258,7 +291,7 @@
     },
     {
       "id": "photo-49",
-      "start": 134.95,
+      "start": 146.35,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 49,
@@ -269,7 +302,7 @@
     },
     {
       "id": "photo-51",
-      "start": 138.75,
+      "start": 150.15,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 51,
@@ -280,7 +313,7 @@
     },
     {
       "id": "photo-52",
-      "start": 142.55,
+      "start": 153.95,
       "hold": 5,
       "duration": 5.92,
       "photo": 52,
@@ -291,7 +324,7 @@
     },
     {
       "id": "photo-3",
-      "start": 147.55,
+      "start": 158.95,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 3,
@@ -302,7 +335,7 @@
     },
     {
       "id": "photo-4",
-      "start": 151.35,
+      "start": 162.75,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 4,
@@ -313,7 +346,7 @@
     },
     {
       "id": "photo-5",
-      "start": 155.15,
+      "start": 166.55,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 5,
@@ -324,7 +357,7 @@
     },
     {
       "id": "photo-6",
-      "start": 158.95,
+      "start": 170.35,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 6,
@@ -335,7 +368,7 @@
     },
     {
       "id": "photo-40",
-      "start": 162.75,
+      "start": 174.15,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 40,
@@ -346,7 +379,7 @@
     },
     {
       "id": "photo-7",
-      "start": 166.55,
+      "start": 177.95,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 7,
@@ -357,7 +390,7 @@
     },
     {
       "id": "photo-8",
-      "start": 170.35,
+      "start": 181.75,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 8,
@@ -368,7 +401,7 @@
     },
     {
       "id": "photo-9",
-      "start": 174.15,
+      "start": 185.55,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 9,
@@ -379,7 +412,7 @@
     },
     {
       "id": "photo-10",
-      "start": 177.95,
+      "start": 189.35,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 10,
@@ -390,7 +423,7 @@
     },
     {
       "id": "photo-11",
-      "start": 181.75,
+      "start": 193.15,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 11,
@@ -401,7 +434,7 @@
     },
     {
       "id": "photo-12",
-      "start": 185.55,
+      "start": 196.95,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 12,
@@ -412,7 +445,7 @@
     },
     {
       "id": "photo-13",
-      "start": 189.35,
+      "start": 200.75,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 13,
@@ -423,7 +456,7 @@
     },
     {
       "id": "photo-14",
-      "start": 193.15,
+      "start": 204.55,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 14,
@@ -434,7 +467,7 @@
     },
     {
       "id": "photo-15",
-      "start": 196.95,
+      "start": 208.35,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 15,
@@ -445,7 +478,7 @@
     },
     {
       "id": "photo-16",
-      "start": 200.75,
+      "start": 212.15,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 16,
@@ -456,7 +489,7 @@
     },
     {
       "id": "photo-17",
-      "start": 204.55,
+      "start": 215.95,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 17,
@@ -467,7 +500,7 @@
     },
     {
       "id": "photo-18",
-      "start": 208.35,
+      "start": 219.75,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 18,
@@ -478,7 +511,7 @@
     },
     {
       "id": "photo-19",
-      "start": 212.15,
+      "start": 223.55,
       "hold": 5,
       "duration": 5.92,
       "photo": 19,
@@ -489,7 +522,7 @@
     },
     {
       "id": "photo-20",
-      "start": 217.15,
+      "start": 228.55,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 20,
@@ -500,7 +533,7 @@
     },
     {
       "id": "photo-21",
-      "start": 220.95,
+      "start": 232.35,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 21,
@@ -511,7 +544,7 @@
     },
     {
       "id": "photo-22",
-      "start": 224.75,
+      "start": 236.15,
       "hold": 5,
       "duration": 5.92,
       "photo": 22,
@@ -522,7 +555,7 @@
     },
     {
       "id": "photo-23",
-      "start": 229.75,
+      "start": 241.15,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 23,
@@ -533,7 +566,7 @@
     },
     {
       "id": "photo-28",
-      "start": 233.55,
+      "start": 244.95,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 28,
@@ -544,7 +577,7 @@
     },
     {
       "id": "photo-24",
-      "start": 237.35,
+      "start": 248.75,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 24,
@@ -555,7 +588,7 @@
     },
     {
       "id": "photo-25",
-      "start": 241.15,
+      "start": 252.55,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 25,
@@ -566,7 +599,7 @@
     },
     {
       "id": "photo-26",
-      "start": 244.95,
+      "start": 256.35,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 26,
@@ -577,7 +610,7 @@
     },
     {
       "id": "photo-27",
-      "start": 248.75,
+      "start": 260.15,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 27,
@@ -588,7 +621,7 @@
     },
     {
       "id": "photo-29",
-      "start": 252.55,
+      "start": 263.95,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 29,
@@ -599,7 +632,7 @@
     },
     {
       "id": "photo-31",
-      "start": 256.35,
+      "start": 267.75,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 31,
@@ -610,7 +643,7 @@
     },
     {
       "id": "photo-38",
-      "start": 260.15,
+      "start": 271.55,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 38,
@@ -621,7 +654,7 @@
     },
     {
       "id": "photo-34",
-      "start": 263.95,
+      "start": 275.35,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 34,
@@ -632,7 +665,7 @@
     },
     {
       "id": "photo-32",
-      "start": 267.75,
+      "start": 279.15,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 32,
@@ -643,7 +676,7 @@
     },
     {
       "id": "photo-33",
-      "start": 271.55,
+      "start": 282.95,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 33,
@@ -654,7 +687,7 @@
     },
     {
       "id": "photo-35",
-      "start": 275.35,
+      "start": 286.75,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 35,
@@ -665,7 +698,7 @@
     },
     {
       "id": "photo-36",
-      "start": 279.15,
+      "start": 290.55,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 36,
@@ -676,7 +709,7 @@
     },
     {
       "id": "photo-30",
-      "start": 282.95,
+      "start": 294.35,
       "hold": 5,
       "duration": 5.92,
       "photo": 30,
@@ -687,7 +720,7 @@
     },
     {
       "id": "photo-37",
-      "start": 287.95,
+      "start": 299.35,
       "hold": 3.8,
       "duration": 4.72,
       "photo": 37,
@@ -698,9 +731,9 @@
     },
     {
       "id": "photo-63",
-      "start": 291.75,
+      "start": 303.15,
       "hold": 5,
-      "duration": 5.92,
+      "duration": 5.37,
       "photo": 63,
       "year": "2026",
       "trans": "dissolve",
@@ -709,9 +742,9 @@
     },
     {
       "id": "photo-66",
-      "start": 296.75,
+      "start": 307.6,
       "hold": 5,
-      "duration": 5.92,
+      "duration": 5.37,
       "photo": 66,
       "year": "",
       "trans": "dissolve",
@@ -720,9 +753,9 @@
     },
     {
       "id": "photo-68",
-      "start": 301.75,
+      "start": 312.05,
       "hold": 5,
-      "duration": 5.92,
+      "duration": 5.37,
       "photo": 68,
       "year": "",
       "trans": "dissolve",
@@ -731,9 +764,9 @@
     },
     {
       "id": "photo-64",
-      "start": 306.75,
+      "start": 316.5,
       "hold": 5,
-      "duration": 5.92,
+      "duration": 5.37,
       "photo": 64,
       "year": "",
       "trans": "dissolve",
@@ -742,9 +775,9 @@
     },
     {
       "id": "photo-65",
-      "start": 311.75,
+      "start": 320.95,
       "hold": 5,
-      "duration": 5.92,
+      "duration": 5.37,
       "photo": 65,
       "year": "",
       "trans": "dissolve",
@@ -753,9 +786,9 @@
     },
     {
       "id": "photo-67",
-      "start": 316.75,
+      "start": 325.4,
       "hold": 5,
-      "duration": 5.92,
+      "duration": 5.37,
       "photo": 67,
       "year": "",
       "trans": "dissolve",
@@ -764,9 +797,9 @@
     },
     {
       "id": "photo-69",
-      "start": 321.75,
+      "start": 329.85,
       "hold": 6,
-      "duration": 6.92,
+      "duration": 6.27,
       "photo": 69,
       "year": "",
       "trans": "dissolve",
@@ -775,9 +808,9 @@
     },
     {
       "id": "photo-73",
-      "start": 327.75,
+      "start": 335.2,
       "hold": 4.5,
-      "duration": 5.42,
+      "duration": 4.91,
       "photo": 73,
       "year": "",
       "trans": "dissolve",
@@ -786,9 +819,9 @@
     },
     {
       "id": "photo-71",
-      "start": 332.25,
+      "start": 339.19,
       "hold": 4.5,
-      "duration": 5.42,
+      "duration": 4.91,
       "photo": 71,
       "year": "",
       "trans": "dissolve",
@@ -798,19 +831,19 @@
     {
       "id": "photo-76",
       "hold": 4.5,
-      "duration": 5.42,
+      "duration": 4.91,
       "photo": 76,
       "year": "",
       "trans": "dissolve",
       "chapter": false,
       "closing": false,
-      "start": 336.75
+      "start": 343.18
     },
     {
       "id": "photo-70",
-      "start": 341.25,
+      "start": 347.17,
       "hold": 4.5,
-      "duration": 5.42,
+      "duration": 4.91,
       "photo": 70,
       "year": "",
       "trans": "dissolve",
@@ -819,9 +852,9 @@
     },
     {
       "id": "photo-74",
-      "start": 345.75,
+      "start": 351.16,
       "hold": 4.5,
-      "duration": 5.42,
+      "duration": 4.91,
       "photo": 74,
       "year": "",
       "trans": "dissolve",
@@ -830,9 +863,9 @@
     },
     {
       "id": "photo-75",
-      "start": 350.25,
+      "start": 355.15,
       "hold": 5.5,
-      "duration": 6.42,
+      "duration": 5.82,
       "photo": 75,
       "year": "",
       "trans": "dissolve",
@@ -842,63 +875,63 @@
     {
       "id": "photo-80",
       "hold": 4.9,
-      "duration": 5.82,
+      "duration": 5.28,
       "photo": 80,
       "year": "",
       "trans": "dissolve",
       "chapter": false,
       "closing": false,
-      "start": 355.75
+      "start": 360.05
     },
     {
       "id": "photo-77",
       "hold": 4.6,
-      "duration": 5.52,
+      "duration": 5.0,
       "photo": 77,
       "year": "",
       "trans": "dissolve",
       "chapter": false,
       "closing": false,
-      "start": 360.65
+      "start": 364.41
     },
     {
       "id": "photo-78",
       "hold": 4.7,
-      "duration": 5.62,
+      "duration": 5.1,
       "photo": 78,
       "year": "",
       "trans": "dissolve",
       "chapter": false,
       "closing": false,
-      "start": 365.25
+      "start": 368.49
     },
     {
       "id": "photo-79",
       "hold": 5.4,
-      "duration": 6.32,
+      "duration": 5.73,
       "photo": 79,
       "year": "",
       "trans": "dissolve",
       "chapter": false,
       "closing": false,
-      "start": 369.95
+      "start": 372.67
     },
     {
       "id": "photo-81",
       "hold": 5.9,
-      "duration": 6.82,
+      "duration": 6.18,
       "photo": 81,
       "year": "",
       "trans": "dissolve",
       "chapter": false,
       "closing": false,
-      "start": 375.35
+      "start": 377.48
     },
     {
       "id": "photo-72",
-      "start": 381.25,
+      "start": 382.74,
       "hold": 6.5,
-      "duration": 7.42,
+      "duration": 5.93,
       "photo": 72,
       "year": "",
       "trans": "dissolve",
